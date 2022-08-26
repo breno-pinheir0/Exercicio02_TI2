@@ -72,6 +72,6 @@ public class Time {
 
 	@Override
 	public String toString() {
-		return "Usuario [id=" + id + ", nome=" + nome + ", vitorias=" + vitorias + ", empates=" + empates + ", pontuacao=" + pontuacao + "]";
+		return "Time: [id = " + id + ", nome = " + nome + ", vitorias = " + vitorias + ", empates = " + empates  + ", derrotas = " + derrotas + ", pontuacao = " + pontuacao + "]";
 	}	
 }
